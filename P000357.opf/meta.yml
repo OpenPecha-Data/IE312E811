@@ -1,15 +1,15 @@
-id: opecha:P000357
+id: P000357
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W27495
   title: གསོ་རིག་ཉེར་མཁོ་གཅེས་བསྡུས
-  volume:
+  author: ''
+  volumes:
     2e51700d32a04d9fbcef9e51a1a3b1c8:
       image_group_id: I4745
       title: ''
       volume_number: 1
       total_pages: 512
-  author: ''
 ebook_metadata:
   title: གསོ་རིག་ཉེར་མཁོ་གཅེས་བསྡུས
   author: ''
